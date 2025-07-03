@@ -1,0 +1,5 @@
+pedido_id,entregue,tempo_entrega,custo
+1,Sim,3,25.5
+2,Sim,2,19.0
+3,Nao,0,0.0
+4,Sim,1,22.0
